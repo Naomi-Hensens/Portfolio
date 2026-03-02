@@ -1,2 +1,2 @@
 # Portfolio
-my porfolio about who i am, projects and art
+my porfolio is about who i am, projects and art
