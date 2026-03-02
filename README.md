@@ -8,7 +8,7 @@ I enjoy reading, playing (board)games and learning more about programming!
 
 This repository will become the home for my projects, including:
 
-- ** My Cozy Walk App** — a Flask-based app for tracking walks & coffee spots  
+- **My Cozy Walk App** — a Flask-based app for tracking walks & coffee spots  
 - **Personal Portfolio Website** — HTML/CSS/JavaScript  
 - 💡 some future ideas are: a Hobby app and a visual novel concept
 
